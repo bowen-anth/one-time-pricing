@@ -43,7 +43,11 @@ body {
 }
 
 .pay-p {
-  margin: 1rem 0;
+  margin-top: 1rem;
+}
+
+.find-out-how-p {
+  margin-top: 0.25rem;
 }
 
 .buy-button {
